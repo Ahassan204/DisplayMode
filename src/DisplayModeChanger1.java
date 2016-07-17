@@ -7,6 +7,7 @@ import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
 
+//This application changes the screen resolution to 800 by 600.
 @SuppressWarnings("serial")
 public class DisplayModeChanger1 extends JFrame {
 
